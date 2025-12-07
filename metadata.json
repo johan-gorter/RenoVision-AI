@@ -1,0 +1,7 @@
+{
+  "name": "RenoVision AI v0",
+  "description": "Transform your home with AI. Upload photos, mask areas, and describe changes to visualize renovations instantly using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
